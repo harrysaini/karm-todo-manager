@@ -1,0 +1,18 @@
+{
+  "name": "karm.js",
+  "version": "0.0.1",
+  "description": "A simple command line todo manger.",
+  "main": "lib/karm.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "bin":{
+    "karm":"bin/karm"
+  },
+  "keywords": [
+    "todo-manager",
+    "cmd",
+    "node"
+  ],
+  "author": "harish"
+}
