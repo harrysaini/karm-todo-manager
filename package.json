@@ -16,11 +16,12 @@
   ],
   "author": "harish",
   "dependencies": {
-    "chalk": "^1.1.3",
     "clear": "0.0.1",
-    "clui": "^0.3.1",
+    "cli-table2": "^0.2.0",
+    "colors": "^1.1.2",
     "commander": "^2.9.0",
     "figlet": "^1.1.2",
-    "os-homedir": "^1.0.2"
+    "os-homedir": "^1.0.2",
+    "underscore": "^1.8.3"
   }
 }
