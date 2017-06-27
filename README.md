@@ -13,7 +13,7 @@ will soon publish on npm
 ```
 karm init
 ```
-Init based configuration and storage files of karm.
+Init basic configuration and storage files of karm.
 
 
 #### add command
@@ -62,7 +62,7 @@ modify existing task
 
 #### done command
 ```
-karm done
+karm done [id]
 ```
 mark task as completed
 
