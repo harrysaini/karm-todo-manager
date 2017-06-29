@@ -1,6 +1,6 @@
 {
   "name": "karm.js",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "A simple command line todo manger.",
   "main": "lib/karm.js",
   "scripts": {
@@ -23,5 +23,12 @@
     "figlet": "^1.1.2",
     "os-homedir": "^1.0.2",
     "underscore": "^1.8.3"
+  },
+  "engines" : { 
+    "node" : ">=6.0.0"
+   }, 
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/harrysaini/karm-todo-manager"
   }
 }

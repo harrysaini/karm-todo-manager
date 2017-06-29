@@ -3,7 +3,12 @@
 A command line todo manager.
 
 # How to install
-will soon publish on npm
+
+Dont use , still in development .
+
+```
+npm install -g karm.js
+```
 
 # How to use
 
