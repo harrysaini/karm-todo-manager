@@ -4,7 +4,6 @@ A command line todo manager.
 
 # How to install
 
-Dont use , still in development .
 
 ```
 npm install -g karm.js
@@ -35,6 +34,23 @@ Create new task.
 | -c , --category | Set category of task |
 | -d , --due | Set due date of task |
 
+##### Allowed values
+
+###### priority 
+
+allowed priority values are - ['L', 'H' , 'U' , 'SU' , 'I']
+
+it stands for
+``` javascript
+{
+	I : "Immediate",
+	SU : "Super Urgent",
+	U : "Urgent",
+	H : "High",
+	L :"Low"
+}
+
+```
 
 #### list command
 ```
